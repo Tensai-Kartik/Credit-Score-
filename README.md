@@ -15,3 +15,7 @@ python score_wallets.py
 Outputs:
 - `wallet_scores.csv`
 - `plots/score_distribution.png`
+
+
+## Author
+Kartik Sharma
